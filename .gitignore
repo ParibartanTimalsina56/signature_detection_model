@@ -1,0 +1,12 @@
+detected/
+detected_exp7/
+detected_results/
+detected_results_exp7/
+empty_annotations/
+grounf_truths/
+multiple_annotations/
+tmp/
+tmp_images/
+*.png
+ground_truths/
+.env
