@@ -20,7 +20,6 @@ The goal is to compare and analyze the performance of both models on a signature
   - Precision
   - Recall
   - mAP (mean Average Precision)
-  - Inference Speed
 - Visualize and analyze results.
 
 ---
